@@ -15,7 +15,7 @@
 ## 💻 Sobre
 
 </br>
-O wildbeast o projeto de conclusão do curso CSS Grid Layout da Origamid. O projeto foi construido inteiramente utilizando display grid.
+O wildbeast o projeto de conclusão do curso CSS Grid Layout da Origamid. O projeto foi construído inteiramente utilizando display grid.
 </br>
 O projeto do curso se limitava a apenas uma pagina, mas eu resolvi ir um pouco alem. Na sessão de Extra eu falo um pouco mais sobre. 
 </br>
@@ -61,6 +61,8 @@ $ Abrir Live Server :P
   </br>
 
 ## 🏗️ Extra
+
+O projeto do curso se limitava apenas a página do Lobo, resolvi criar mais duas para "brincar" um pouco com o Grid e adicionar algumas coisas novas. Futuramente pretendo implementar novas features. Abaixo está o preview das páginas que eu adicionei.
 
 </br>
 <p align="center">

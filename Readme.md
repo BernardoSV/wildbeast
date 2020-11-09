@@ -17,17 +17,13 @@
 </br>
 O wildbeast o projeto de conclusão do curso CSS Grid Layout da Origamid. O projeto foi construido inteiramente utilizando display grid.
 </br>
-</br>
 O projeto do curso se limitava a apenas uma pagina, mas eu resolvi ir um pouco alem. Na sessão de Extra eu falo um pouco mais sobre. 
 </br>
 </br>
 
 ## 🚀 Tecnologias
 
-</br>
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
-</br>
-
 </br>
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
@@ -44,8 +40,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
   <img alt="Wildbeast Preview" title="Wildbeast Preview" src="./assets/preview2.gif" width="17%" />
 </p>
 
-Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
-</br>
 </br>
 
 ## 🧪 Teste
